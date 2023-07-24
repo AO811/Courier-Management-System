@@ -18,15 +18,15 @@ public class About extends JFrame implements ActionListener {
         add(text);
 
         String s = "                                    About Projects          \n  "
-                + "\nThe objective of the Travel and Tourism Management System"
+                + "\nThe objective of the Courier Management System"
                 + "project is to develop a system that automates the processes "
                 + "and activities of a travel and the purpose is to design a "
                 + "system using which one can perform all operations related to "
-                + "traveling.\n\n"
+                + "courier delivery.\n\n"
                 + "This application will help in accessing the information related "
-                + "to the travel to the particular destination with great ease. "
+                + "to the delivery of courier item with great ease. "
                 + "The users can track the information related to their tours with "
-                + "great ease through this application. The travel agency information "
+                + "great ease through this application. The courier service information "
                 + "can also be obtained through this application.\n\n"
                 + "Advantages of Project:"
                 + "\nGives accurate information"
@@ -34,8 +34,8 @@ public class About extends JFrame implements ActionListener {
                 + "\nIt minimizes the documentation related work"
                 + "\nProvides up to date information"
                 + "\nFriendly Environment by providing warning messages."
-                + "\ntravelers details can be provided"
-                + "\nbooking confirmation notification"
+                + "\nCourier details can be provided."
+                + "\nBooking confirmation notification."
                 ;
         JTextArea t1 = new JTextArea(s);
         t1.setBounds(120, 100, 550, 400);
