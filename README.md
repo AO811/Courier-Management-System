@@ -1,16 +1,11 @@
 # Courier-Management-System
 This is a project regarding courier management system.
-The objective of the Courier Management System project is to develop a system that automates the processes and activities of a travel and the purpose is to design a system using which one can perform all operations related to courier delivery.\n\n"
-                + "This application will help in accessing the information related "
-                + "to the delivery of courier item with great ease. "
-                + "The users can track the information related to their tours with "
-                + "great ease through this application. The courier service information "
-                + "can also be obtained through this application.\n\n"
-                + "Advantages of Project:"
-                + "\nGives accurate information"
-                + "\nSimplifies the manual work"
-                + "\nIt minimizes the documentation related work"
-                + "\nProvides up to date information"
-                + "\nFriendly Environment by providing warning messages."
-                + "\nCourier details can be provided."
-                + "\nBooking confirmation notification."
+The objective of the Courier Management System project is to develop a system that automates the processes and activities of a travel and the purpose is to design a system using which one can perform all operations related to courier delivery.
+               Advantages of Project:
+                + Gives accurate information
+                + Simplifies the manual work
+                + It minimizes the documentation related work
+                + Provides up to date information
+                + Friendly Environment by providing warning messages.
+                + Courier details can be provided.
+                + Booking confirmation notification.
